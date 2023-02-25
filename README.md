@@ -1,4 +1,4 @@
-# Baiust-University-Mnagement-System
+# Baiust-University-Management-System
 BAIUST University Management System
 Project name: BAIUST University Management System
 Requirements Analysis:
