@@ -1,0 +1,11 @@
+C:\BAIUST\bin\Release\net7.0-windows\app.publish\BAIUST.exe
+C:\BAIUST\bin\Release\net7.0-windows\app.publish\BAIUST.dll
+C:\BAIUST\bin\Release\net7.0-windows\app.publish\BAIUST.deps.json
+C:\BAIUST\bin\Release\net7.0-windows\app.publish\BAIUST.runtimeconfig.json
+C:\BAIUST\bin\Release\net7.0-windows\app.publish\BAIUST.pdb
+C:\BAIUST\bin\Release\net7.0-windows\app.publish\System.Data.SqlClient.dll
+C:\BAIUST\bin\Release\net7.0-windows\app.publish\runtimes\win-arm64\native\sni.dll
+C:\BAIUST\bin\Release\net7.0-windows\app.publish\runtimes\win-x64\native\sni.dll
+C:\BAIUST\bin\Release\net7.0-windows\app.publish\runtimes\win-x86\native\sni.dll
+C:\BAIUST\bin\Release\net7.0-windows\app.publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\BAIUST\bin\Release\net7.0-windows\app.publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

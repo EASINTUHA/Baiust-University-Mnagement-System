@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\BAIUST\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddAndSearchBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BUSCARD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BUSCARDSEARCH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BUSSCHEDULE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CSE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DBA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="developer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EEE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ENGLISH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="feelist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HostelAdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HostelStudentFees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hostel_leave_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hostel_main_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hostel_new_employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hostel_Room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LAW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="library Admin Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="library Student Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Library.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="main_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="meaaege.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewAdmission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="paymentlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="photoGallary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="photo_gallary2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="photo_gallary3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="photo_gallary4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Remove_Student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="routin2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="routone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchHostelStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentFessDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentIndvidualDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="studentLibraryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentPament.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_main_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student_result_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="teacherevulation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeacherEvulationStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher_information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpgrateSemester.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="video.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
